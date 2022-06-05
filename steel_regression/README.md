@@ -17,4 +17,4 @@
 Имеются пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны.
 
 ## Используемые библиотеки
-`pandas` `sklearn` `Bootstrap` `numpy` `seaborn`
+`pandas` `sklearn` `xgboost` `catboost` `lightgbm` `matplotlib`
