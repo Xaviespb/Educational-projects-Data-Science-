@@ -14,4 +14,4 @@
 `[этап].[тип_параметра].[название_параметра]`
 
 ## Используемые библиотеки
-`pandas` `numpy` `seaborn` `matplotlib` `sklearn` `scipy`
+`pandas` `matplotlib` `numpy` `sklearn` `scipy` `missingno`
