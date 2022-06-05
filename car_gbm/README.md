@@ -5,4 +5,4 @@
 Разработка системы рекомендации стоимости автомобиля на основе его описания
 
 ## Используемые библиотеки
-`pandas` `seaborn` `lightgbm` `sklearn` `scipy` `catboost`
+`pandas` `numpy` `sklearn` `xgboost` `catboost` `lightgbm` `matplotlib` `seaborn` `scipy`
